@@ -1,15 +1,14 @@
 import React from 'react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
-import myImage from '../assets/images/mii.png'
+import myImage from '../assets/images/mii.png';
+import '../styles/aboutMe.css';
 
 const AboutMe = () => {
   return (
     <div>
-      <h2>About Me</h2>
       <div className="about-container">
         <div className="about-content">
-          <img src={myImage} alt="Jeacqueline" />
-          <p>¡Bienvenido a mi portafolio! Soy Jeacqueline, un programador con experiencia en HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL,Python.</p>
+          <p>Welcome to my portfolio! I'm Jeacqueline, a new programmer with experience in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Python. 🤓</p>
         </div>
         <div className="social-links">
           <a href="https://github.com/Jeacqueline" target="_blank" rel="noopener noreferrer">
@@ -20,6 +19,7 @@ const AboutMe = () => {
           </a>
         </div>
       </div>
+          <img src={myImage} alt="Jeacqueline" className='about-image'/>
     </div>
   );
 };

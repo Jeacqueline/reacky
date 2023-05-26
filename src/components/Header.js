@@ -1,17 +1,18 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import ico from '../assets/images/mii.ico'
+import logo from '../assets/images/mii.ico'
+import '../styles/header.css';
 
 const Header = () => {
   return (
     <header>
       <div className="logo-container">
         <Link to="/">
-          <img src={ico} alt="Icono" />
+          <img src={logo} alt="Logo" className='logo'/>
         </Link>
       </div>
       <nav>
-        <ul>
+        <ul className='nav-links'>
           <li>
             <Link to="/aboutMe">About Me</Link>
           </li>

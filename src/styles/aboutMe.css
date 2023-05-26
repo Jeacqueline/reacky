@@ -1,0 +1,29 @@
+.about-container {
+  display: flex;
+  flex-direction: column; /* Cambio la dirección de la columna para alinear el contenido verticalmente */
+}
+
+.about-content {
+  margin-bottom: 20px; /* Agrego margen inferior para separar el texto de los enlaces */
+}
+
+.about-image {
+  width: 250px;
+  border-radius: 20px;
+  align-self: flex-end; 
+}
+
+
+.social-links {
+  display: flex;
+  justify-content: flex-start; /* Alinea los enlaces a la izquierda */
+  gap: 10px; /* Agrega espacio entre los enlaces */
+}
+
+.social-links a {
+  width: 50px; /* Establece un ancho fijo para los enlaces */
+  height: 40px; /* Establece una altura fija para los enlaces */
+  font-size: 40px; /* Establece el tamaño de fuente para los iconos */
+}
+
+
