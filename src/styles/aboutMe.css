@@ -1,10 +1,10 @@
 .about-container {
   display: flex;
-  flex-direction: column; /* Cambio la dirección de la columna para alinear el contenido verticalmente */
+  flex-direction: column; 
 }
 
 .about-content {
-  margin-bottom: 20px; /* Agrego margen inferior para separar el texto de los enlaces */
+  margin-bottom: 20px; 
 }
 
 .about-image {
@@ -16,14 +16,14 @@
 
 .social-links {
   display: flex;
-  justify-content: flex-start; /* Alinea los enlaces a la izquierda */
-  gap: 10px; /* Agrega espacio entre los enlaces */
+  justify-content: flex-start;
+  gap: 10px; 
 }
 
 .social-links a {
-  width: 50px; /* Establece un ancho fijo para los enlaces */
-  height: 40px; /* Establece una altura fija para los enlaces */
-  font-size: 40px; /* Establece el tamaño de fuente para los iconos */
+  width: 50px; 
+  height: 40px;
+  font-size: 40px; 
 }
 
 

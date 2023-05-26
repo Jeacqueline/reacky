@@ -1,6 +1,6 @@
 .carousel-inner {
     position: relative;
-    height: 400px; /* Ajusta la altura según tus necesidades */
+    height: 400px; 
   }
   
   .carousel-item {
@@ -27,8 +27,8 @@
     left: 0;
     right: 0;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5); /* Ajusta el color de fondo según tus necesidades */
-    color: #fff; /* Ajusta el color del texto según tus necesidades */
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fff; 
   }
   
   .carousel-control-prev,
@@ -36,9 +36,9 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    width: 40px; /* Ajusta el ancho según tus necesidades */
-    height: 40px; /* Ajusta el alto según tus necesidades */
-    background-color: rgba(0, 0, 0, 0.5); /* Ajusta el color de fondo según tus necesidades */
+    width: 40px; 
+    height: 40px; 
+    background-color: rgba(0, 0, 0, 0.5); 
     border-radius: 50%;
     border: none;
     opacity: 0.5;
@@ -52,9 +52,9 @@
   
   .carousel-control-prev-icon,
   .carousel-control-next-icon {
-    width: 20px; /* Ajusta el ancho según tus necesidades */
-    height: 20px; /* Ajusta el alto según tus necesidades */
-    background-color: #fff; /* Ajusta el color del icono según tus necesidades */
+    width: 20px; 
+    height: 20px; 
+    background-color: #fff; 
     border-radius: 50%;
   }
   
@@ -77,12 +77,12 @@
   }
   
   .carousel-indicators button {
-    width: 10px; /* Ajusta el ancho según tus necesidades */
-    height: 10px; /* Ajusta el alto según tus necesidades */
-    background-color: rgba(255, 255, 255, 0.5); /* Ajusta el color de fondo según tus necesidades */
+    width: 10px; 
+    height: 10px; 
+    background-color: rgba(255, 255, 255, 0.5); 
     border: none;
     border-radius: 50%;
-    margin: 0 5px; /* Ajusta el margen según tus necesidades */
+    margin: 0 5px; 
     padding: 0;
     cursor: pointer;
     opacity: 0.5;
@@ -90,7 +90,7 @@
   }
   
   .carousel-indicators button.active {
-    background-color: #fff; /* Ajusta el color de fondo activo según tus necesidades */
+    background-color: #fff; 
     opacity: 1;
   }
   
