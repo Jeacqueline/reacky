@@ -45,4 +45,4 @@ To use the portfolio application locally, follow these steps:
 
 [GitHub/Jeacqueline reacky](https://github.com/Jeacqueline/reacky)
 
-[Heroku/Jeacqueline Reacky]()
+[Heroku/Jeacqueline Reacky](https://reacky.herokuapp.com/)
