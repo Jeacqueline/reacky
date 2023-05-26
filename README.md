@@ -12,19 +12,19 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 ## Features
 The portfolio application provides the following features:
 
-- **Header**
-- **Navigation**: The navigation menu consists of the following titles:
+- Header
+- Navigation: The navigation menu consists of the following titles:
   - About Me
   - Portfolio
   - Contact
   - Resume
-- **Dynamic Content**
-- **Default Selection**
-- **About Me**
-- **Portfolio**
-- **Contact**
-- **Resume**
-- **Footer**
+- Dynamic Content
+- Default Selection
+- About Me
+- Portfolio
+- Contact
+- Resume
+- Footer
 ## Usage
 To use the portfolio application locally, follow these steps:
 
