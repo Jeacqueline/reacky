@@ -41,6 +41,7 @@ To use the portfolio application locally, follow these steps:
 ![Reference image.](./src/assets/images/contact.png)
 ![Reference image.](./src/assets/images/porfolio.png)
 ![Reference image.](./src/assets/images/resume.png)
+![Reference image.](./src/assets/images/heroku.png)
 
 [GitHub/Jeacqueline reacky](https://github.com/Jeacqueline/reacky)
 
