@@ -5,6 +5,7 @@ import Quizzer from '../assets/images/quizzer.png';
 import Todo from '../assets/images/to-do.png';
 import TaskMe from '../assets/images/task-me.png';
 import SaboresDoMundo from '../assets/images/sabores-do-mundo.png';
+import Profinder from '../assets/images/profinder.png'
 import '../styles/portfolio.css';
 
 
@@ -53,6 +54,14 @@ const projects = [
     url: 'https://sabores-do-mondo.herokuapp.com/',
     image:SaboresDoMundo
   },
+  {
+    id: 7,
+    title: 'ProFinder',
+    description: 'Created with the aim of helping people find someone who can solve their problems.',
+    url: 'https://github.com/AndyAnza/profinder ',
+    image:Profinder
+  }
+  
 ];
 
 const Portfolio = () => {
