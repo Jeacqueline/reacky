@@ -58,7 +58,7 @@ const projects = [
     id: 7,
     title: 'ProFinder',
     description: 'Created with the aim of helping people find someone who can solve their problems.',
-    url: 'https://github.com/AndyAnza/profinder ',
+    url: 'https://profinder-dev.herokuapp.com/',
     image:Profinder
   }
   
